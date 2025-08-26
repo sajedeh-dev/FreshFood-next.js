@@ -7,8 +7,10 @@ Users can filter recipes by **difficulty** and **cooking time**, with filters re
 ---
 
 ## 🚀 Demo
-![screenshot]()  
-*()*
+## 🚀 Demo
+Live demo: [FreshFood Web]([https://your-demo-link.com)](https://freshfoodnext-js.vercel.app/)  
+Figma design: [View on Figma]([https://www.figma.com/file/your-file](https://www.figma.com/design/f5Yy7GWwN5jhqMqdqexzRP/Food-Delivery-Website--Landing-Home-Page--Community-?node-id=803-5&p=f&t=o1gJrSn5oekulXcT-0))
+
 
 ---
 
