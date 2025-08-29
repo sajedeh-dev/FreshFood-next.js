@@ -12,7 +12,7 @@ function DownApp() {
        </div>
        {/* right content */}
        <div className="ml-20 md:ml-0 md:px-8 md:pt-8">
-        <img src=" /images/frame.png"/>
+        <img src="/images/frame.png"/>
        </div>
 
     </div>
