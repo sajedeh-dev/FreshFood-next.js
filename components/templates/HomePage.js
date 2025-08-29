@@ -1,4 +1,6 @@
+import AboutUs from '../modules/AboutUs'
 import Banner from '../modules/Banner'
+import DownApp from '../modules/DownApp'
 import Guide from '../modules/Guide'
 import Services from '../modules/Services'
 // import Slider from '../modules/Slider'
@@ -9,6 +11,8 @@ function HomePage() {
         <Banner/>
         <Guide/>
         <Services/>
+        <AboutUs/>
+        <DownApp/>
         {/* <Slider/> */}
     </div>
   )
