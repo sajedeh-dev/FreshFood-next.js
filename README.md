@@ -5,8 +5,6 @@ This project demonstrates the use of **SSR/SSG** in Next.js and working with **j
 Users can filter recipes by **difficulty** and **cooking time**, with filters reflected in the URL using query strings.  
 
 ---
-
-## 🚀 Demo
 ## 🚀 Demo
 - Live demo: [FreshFood Web]([https://your-demo-link.com)](https://freshfoodnext-js.vercel.app/)  
 - Figma Design: [https://www.figma.com/file/f5Yy7GWwN5jhqMqdqexzRP/Food-Delivery-Website--Landing-Home-Page--Community-](https://www.figma.com/file/f5Yy7GWwN5jhqMqdqexzRP/Food-Delivery-Website--Landing-Home-Page--Community-)
