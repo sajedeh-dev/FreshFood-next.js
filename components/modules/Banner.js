@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { FaPlay } from "react-icons/fa";
+import Image from "next/image";
 
 
 function Banner() {
@@ -20,7 +21,7 @@ function Banner() {
 
       </div>
       <div>
-        <img src="/images/bannermain.png" alt="Food image" />
+         <Image src="/images/bannermain.png" alt="bannermain" width={600} height={500}/>
       </div>
     </div>
   );

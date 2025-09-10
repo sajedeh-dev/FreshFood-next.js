@@ -1,4 +1,4 @@
-
+import Image from "next/image"
 
 function DownApp() {
   return (
@@ -12,7 +12,7 @@ function DownApp() {
        </div>
        {/* right content */}
        <div className="ml-20 md:ml-0 md:px-8 md:pt-8">
-        <img src="/images/frame.png"/>
+        <Image src="/images/frame.png" alt="frame" width={600} height={500}/>
        </div>
 
     </div>
